@@ -60,6 +60,7 @@ MILVUS_PORT=19530
 #### Run
 
 1. **[Convert textbooks into md.](https://mineru.net/)**
+- Add the md files into /mds
 
 2. **[Start Milvus](https://milvus.io/docs/install_standalone-docker.md)**
 
