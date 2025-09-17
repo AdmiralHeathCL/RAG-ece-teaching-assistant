@@ -6,6 +6,9 @@ This project is a Retrieval-Augmented Generation (RAG)–based Q&A system focuse
 * **Q&A Interaction**: Convert user questions into vector queries, search the document collections, and answer based on retrieved passages.
 * **OpenAI-compatible Endpoints**: FastAPI services that can connect into AI Agents and support multiple LLMs.
 
+* <img width="895" height="741" alt="13d2338ac68529ff921db087c7c58df5" src="https://github.com/user-attachments/assets/8a93110f-2c79-400e-aff3-ccf6d1d38f42" />
+
+
 ## System Architecture
 
 ### **Database**
